@@ -10,9 +10,9 @@ A starting selection of high resolution PNG and SVG file are included here, in a
 
 </br>
 
-### nostr icon ( example )
+### icon ( example )
 
-| ![nostr icon base grey](/PNG/nostr_share_grey_base.png) | ![nostr icon grafic grey](/PNG/nostr_share_grey_icon.png)|
+![nostr icon base grey](/PNG/nostr_share_grey_base.png)  ![nostr icon grafic grey](/PNG/nostr_share_grey_icon.png)
 
 
 ### license
@@ -23,3 +23,5 @@ CC0 enables creators and owners of copyright-protected content to waive their ri
 
 ### support
 If you find this graphic useful, and would like to support Mike's work: https://getalby.com/p/mikebrookes
+
+</br>
