@@ -1,4 +1,4 @@
-# nostr share icon
+# nostr link icon
 
 The nostr protocol supports an evolving and decentralised ecosystem of clients and uses, currently with no obliged or agreed protocol-wide visual identity. This proposal responds to discussion of the need for a simple and distinctive web icon, that might be included amongst other webpage social media and site link icons, for use in linking to content and profiles within any of the available nostr social media clients and content platforms.
 
