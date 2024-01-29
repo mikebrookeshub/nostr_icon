@@ -4,13 +4,13 @@ The nostr protocol supports an evolving and decentralised ecosystem of clients a
 
 This graphic is conceived to explicitly not assert the nostr protocol as a brand; aiming to suggest a more general and open point of connection, to any nostr content instance, across any of the many uses and clients available, without asserting or undermining particular client identities. It proposes a distinctive yet familiar pair of square brackets, separated to contain an unfilled content area, to a distance that results in the outer limits of the brackets occupying a square.
 
-A test selection of PNG and SVG files are included, in a range of example tones and tints.
+A test selection of PNG and SVG files are included, in a range of example tones and tints. Additional use-specific adaptations are imagined, including the possibility of a <a href="https://github.com/mikebrookeshub/nostr_icon">[&nbsp;&nbsp;]</a> text emoji link where necessary…
 
 </br>
 
 ### icon ( example )
 
-![nostr icon base grey](/PNG/nostr_button_grey_1024px.png)  ![nostr icon grafic grey](/PNG/nostr_icon_grey_1024px.png)
+![nostr icon base grey](/PNG/nostr_button_grey_1024px.png)  ![nostr icon graphic grey](/PNG/nostr_icon_grey_1024px.png)
 
 
 ### license
