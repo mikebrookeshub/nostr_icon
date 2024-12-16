@@ -19,8 +19,4 @@ CC0 enables creators and owners of copyright-protected content to waive their ri
 
 </br>
 
-### support
-
-If you find anything here useful, and would like to offer support: https://getalby.com/p/mikebrookes
-
 </br>
